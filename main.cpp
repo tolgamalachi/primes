@@ -7,7 +7,7 @@ using namespace std;
 
 int main() {
     time_t start = time(nullptr);
-    int max = 9999999;
+    int max = 999999999;
     int primes = 0;
 
 

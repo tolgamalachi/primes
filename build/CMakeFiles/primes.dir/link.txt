@@ -1,0 +1,1 @@
+/usr/bin/clang++      CMakeFiles/primes.dir/main.cpp.o CMakeFiles/primes.dir/Prime.cpp.o  -o primes 

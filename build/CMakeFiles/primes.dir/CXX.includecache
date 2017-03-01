@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/tolga/Dokumente/BA/primes/Prime.cpp
+iostream
+-
+
+/home/tolga/Dokumente/BA/primes/main.cpp
+iostream
+-
+ctime
+-
+Prime.cpp
+/home/tolga/Dokumente/BA/primes/Prime.cpp
+
